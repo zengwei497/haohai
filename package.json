@@ -1,0 +1,30 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zengwei497/haohai"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4",
+    "shell-oooooyoung": "^1.1.11"
+  
+  },
+  "bugs": {
+    "url": "https://github.com/zengwei497/haohai/issues"
+  },
+  "homepage": "https://github.com/zengwei497/haohai#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
